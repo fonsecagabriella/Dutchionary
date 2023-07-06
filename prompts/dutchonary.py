@@ -73,7 +73,7 @@ def get_correct_zin(prompt, model="gpt-3.5-turbo"):
             messages=messages,
             temperature=0.1, # this is the degree of randomness of the model's output
             #n =1, #number of completions to generate
-            max_tokens = 200
+            max_tokens = 300
         )
         return response.choices[0].message["content"]
     except Exception:
