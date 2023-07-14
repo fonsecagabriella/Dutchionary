@@ -5,7 +5,7 @@ import cowsay
 import os
 
 def main():
-    # clean terminal
+    # clean the terminal
     os.system("clear")
     # gets user word
     w = input("What's the word? ")

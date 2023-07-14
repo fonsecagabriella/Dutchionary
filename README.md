@@ -1,5 +1,5 @@
 # DUTCHIONARY
-Welcome to Dutchionary, a tool designed to make learning Dutch vocabulary easier and more enjoyable! 🇳🇱
+Welcome to Dutchionary, a tool designed to make learning Dutch vocabulary easier and more enjoyable! 🇳🇱 🌷
 
 #### Video Demo:  <https://youtu.be/rKdzWVigkXU
 
